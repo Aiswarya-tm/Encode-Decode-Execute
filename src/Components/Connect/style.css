@@ -1,0 +1,14 @@
+.button-for-connect{
+    width : 59vw;
+    height:50px;
+    background-color: #ffbb00;
+    outline: none;
+    cursor:pointer;
+    border: none;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+    font-size: 16px;
+}

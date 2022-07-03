@@ -1,0 +1,70 @@
+.input-box-to-address {
+    width:40vw;
+    height:40px;
+    padding:0px 10px 0px 10px;
+    background-color:#3b3f46;
+    outline: none;
+    border-radius:5px;
+    border:1px solid #3B3F46;
+    color:rgba(230, 223, 223, 0.77);
+    
+}
+
+.execute-main-container{
+    display:flex;
+    flex-direction:column;
+    padding:9px 10vw 25px;
+    margin:30px 0px;
+    background-color:#1a1c1f;
+    border-radius: 20px;
+}
+
+.text-area-box-for-data{
+    min-height: 70px;
+    max-height: 100px;
+    width: 40vw;
+    padding:5px 10px 5px 10px;
+    background-color:#3B3F46;
+    outline: none;
+    border-radius:5px;
+    border:1px solid #3B3F46;
+    color:rgba(230, 223, 223, 0.77);
+}
+.button-for-execute{
+    width : 200px;
+    height:50px;
+    background-color: #ffbb00;
+    outline: none;
+    cursor:pointer;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+.check-warning{
+    color:red;
+    margin-top:2px;
+    margin-bottom:0px;
+}
+
+.button-for-execute-disable{
+    width : 200px;
+    height:50px;
+    background-color: rgba(230, 223, 223, 0.77);
+    outline: none;
+    cursor:not-allowed;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.result{
+    word-break: break-all;
+}
